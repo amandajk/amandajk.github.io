@@ -31,6 +31,13 @@
   float: left;
   padding-left: 10px;
 }
+#lines{
+  padding-top: 100px;
+  float:right;
+  /* transform: scale(1.2); */
+  padding-right: 55px;
+}
+
 h1{
     font-family: "Recoleta Bold";
     color: #6C5B7B;
@@ -52,6 +59,7 @@ h3{
   font-size: 25px;
   font-weight: normal;
   padding-top: 75px;
+  color: #2B192E;
 }
 #description{
   overflow-wrap:break-word;
@@ -175,6 +183,7 @@ a{
   height: 40%;
   width: 40%;
 }
+
 @keyframes fadeInAnimation {
   0% {
       opacity: 0;
@@ -183,6 +192,7 @@ a{
       opacity: 1;
    }
 }
+
 html{
   scroll-behavior: smooth;
 }
