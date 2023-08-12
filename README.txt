@@ -1,5 +1,4 @@
 WIP
-im not done yet, a little busy. 
 
-I made the pictures with canva
-aside from photos from github, linkedin logo. 
+Working on responsiveness and adding features to UI.
+Icons, logos/posters designed by me. (aside from github, linkedin icons)
