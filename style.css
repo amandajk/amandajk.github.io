@@ -71,7 +71,7 @@ h3{
 
 }
 #skills{
-  text-align: center;
+  float: left;
   padding-left: 0px;
   font-family: "Recoleta Bold";
   padding-top: 20px;
@@ -116,10 +116,19 @@ h3{
       padding-right:0px;
 
   }
+  h1{
+    text-align: left;
+    padding-left: 5px;
+  }
+  #description{
+    text-align: left;
+    padding-left: 5px;
+  }
   h3{
     max-width: 100%;
     padding-left: 5px;
     padding-right: 5px;
+    font-size: medium;
   }
   #projects #sp{
     min-width: 100% !important;
@@ -309,3 +318,4 @@ html{
     padding: 0 40px;
   }
 }
+
