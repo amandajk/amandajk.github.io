@@ -323,3 +323,9 @@ html{
   }
 }
 
+.btn-dark{
+  border-radius: 1.5em;
+  background-color: #FFF1F2 !important;
+  color: black;
+}
+
